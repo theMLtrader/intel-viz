@@ -1,5 +1,5 @@
 intel-viz
 =========
 
-for sharing data exploration findings.
+For sharing data exploration findings.
 
